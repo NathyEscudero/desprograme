@@ -1,0 +1,24 @@
+Acordo -> em casa fazer igual que está no slide
+*fazer atividade
+
+Html -> linguagem de estrutura
+* html se usa tag
+
+tag -> fecho o olho, abre  o olho
+na tag a gente coloca o conteúdo
+
+h1 -> primeiro título = <h1>.....</h1>
+p -> paragrafo = <p>.....</p>
+<strong>sou begrito</strong>
+
+em programação sempre usar letra minúscula
+
+a letra a é um link
+drieve (símbolo de ancora) = ancoragem
+
+
+*para deixar o txt em  negrito
+
+Fazer em grupo site das mulheres.
+Fazer pág de index html (1 página para cada uma)
+- Ada; - Glace e - Mary
